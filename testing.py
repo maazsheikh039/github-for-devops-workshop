@@ -1,0 +1,1 @@
+print("kaisa dosto kia hal chal!")
